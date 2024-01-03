@@ -1,0 +1,8 @@
+{
+    "search.useGlobalIgnoreFiles": false,
+    "search.useIgnoreFiles": true,
+    "explorer.excludeGitIgnore": false,
+    "cSpell.useGitignore": true,
+    "workbench.editor.enablePreview": true,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": false
+}
